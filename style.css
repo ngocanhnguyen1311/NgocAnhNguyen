@@ -67,17 +67,17 @@ p {
 }
 
 #navbar .container .fb {
-    background: url('fb.png')no-repeat;
+    background: url('./fb.png')no-repeat;
     height: 50px;
 }
 
 #navbar .container .tt {
-    background: url('tiktok.png')no-repeat;
+    background: url('./tiktok.png')no-repeat;
     height: 50px;
 }
 
 #navbar .container .ig {
-    background: url('icons8-instagram-48.png')no-repeat;
+    background: url('./icons8-instagram-48.png')no-repeat;
     height: 50px;
 }
 
